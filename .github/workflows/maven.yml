@@ -1,4 +1,4 @@
-name: Maven Build
+name: AlphaBaqplaGlitchLoxity
 
 on: [push, pull_request]
 
